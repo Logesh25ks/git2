@@ -1,1 +1,1 @@
-This is new2.txt file.
+This is new2.txt file. It is text format file.
